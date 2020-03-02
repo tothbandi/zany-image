@@ -1,5 +1,6 @@
 {
   "name": "zany-image",
+  "homepage": "https://tothbandi.github.io/zany-image"
   "version": "0.1.0",
   "private": true,
   "dependencies": {
