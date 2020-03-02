@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/zany-image/precache-manifest.b040787f6c9102a596944b0b24f3e8f0.js"
+  "/zany-image/precache-manifest.25d4823a278cf8e3aa8786cc84e3584c.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5b3f9c491a6a85069dbf1bba99f8aa25",
+    "revision": "25176105990d88de495d0982ac1ab39e",
     "url": "/zany-image/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zany-image/static/css/2.eb45ad44.chunk.css"
   },
   {
-    "revision": "4eaaf9efa37e30c646fe",
+    "revision": "b39587622f062e287c31",
     "url": "/zany-image/static/css/main.9f4c013b.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zany-image/static/js/2.5f731446.chunk.js.LICENSE"
   },
   {
-    "revision": "4eaaf9efa37e30c646fe",
-    "url": "/zany-image/static/js/main.d840e37d.chunk.js"
+    "revision": "b39587622f062e287c31",
+    "url": "/zany-image/static/js/main.53fe4c4c.chunk.js"
   },
   {
     "revision": "0189025364fd695fa04b",
