@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "25176105990d88de495d0982ac1ab39e",
+    "revision": "fc907cad749b96ac08dad2ac489a5832",
     "url": "/zany-image/index.html"
   },
   {
-    "revision": "0c4ca14f57c822cecef9",
+    "revision": "28fea788dea16ec22dd1",
     "url": "/zany-image/static/css/2.eb45ad44.chunk.css"
   },
   {
-    "revision": "b39587622f062e287c31",
+    "revision": "74c5b4413ed210578d4d",
     "url": "/zany-image/static/css/main.9f4c013b.chunk.css"
   },
   {
-    "revision": "0c4ca14f57c822cecef9",
-    "url": "/zany-image/static/js/2.5f731446.chunk.js"
+    "revision": "28fea788dea16ec22dd1",
+    "url": "/zany-image/static/js/2.98ccedab.chunk.js"
   },
   {
-    "revision": "81c1ab2ba64ac9f85d481dd74a981dc6",
-    "url": "/zany-image/static/js/2.5f731446.chunk.js.LICENSE"
+    "revision": "830c55e5e5effdba80df2f1b4bb9b6b9",
+    "url": "/zany-image/static/js/2.98ccedab.chunk.js.LICENSE"
   },
   {
-    "revision": "b39587622f062e287c31",
-    "url": "/zany-image/static/js/main.53fe4c4c.chunk.js"
+    "revision": "74c5b4413ed210578d4d",
+    "url": "/zany-image/static/js/main.0abed06c.chunk.js"
   },
   {
     "revision": "0189025364fd695fa04b",
